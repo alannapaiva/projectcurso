@@ -14,7 +14,6 @@ for(cont =2;cont<=num;cont++){
 
 int main() {
 	int num;
-	printf("Rafael Esteve aqui")
 	printf("insira numero:\n");
 	scanf("%d", &num);
 	int res = fatorial(num);
